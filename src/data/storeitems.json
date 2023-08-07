@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Airpods",
+      "price": 15.99,
+      "imgUrl": "/imgs/airpods.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iPad",
+      "price": 699.99,
+      "imgUrl": "/imgs/ipad.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tv Smart",
+      "price": 799.99,
+      "imgUrl": "/imgs/tv.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Desk Lamp",
+      "price": 199.99,
+      "imgUrl": "/imgs/desk.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shoes",
+      "price": 89.99,
+      "imgUrl": "/imgs/shoe.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Printer",
+      "price": 389.99,
+      "imgUrl": "/imgs/printer.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Air Purifier",
+      "price": 499.99,
+      "imgUrl": "/imgs/AirPurifier.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Laptop",
+      "price": 1099.99,
+      "imgUrl": "/imgs/laptop.jpg"
+    }
+  ]
+  
